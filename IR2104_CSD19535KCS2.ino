@@ -1,4 +1,5 @@
 // PWM pins for HIN and LIN (IR2104 inputs)
+
 int hinPin = 9;
 int linPin = 10;
 
