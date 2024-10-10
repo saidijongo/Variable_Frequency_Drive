@@ -9,3 +9,6 @@ https://www.pcbway.com/blog/technology/4000W_Standalone_Digital_AC_Dimmer_Using_
 
 
 https://www.circuits-diy.com/how-to-build-a-3-phase-vfd-circuit/
+
+[Binary to hex]
+https://www.rapidtables.com/convert/number/decimal-to-binary.html
